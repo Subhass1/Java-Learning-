@@ -1,4 +1,5 @@
 /*✍️✍️✍️✍️✍️✍️✍️✍️✍️✍️✍️ Variables_Concept ✍️✍️✍️✍️✍️✍️✍️✍️✍️✍️✍️✍️✍️
+
  In Java, there are different types of variables, for example:
 
 🔴 String - stores text, such as "Hello". String values are surrounded by double quotes
@@ -43,7 +44,36 @@ class variables {
 
         boolean myBool = true;
         System.out.println(myBool);
-        
+
+    }
+
+}
+
+/*
+ * 👉 *************Print Variables*****************
+ * 
+ */
+
+class variable {
+
+    public static void main(String[] args) {
+
+        // 👉To combine both text and a variable, use the + character:
+        String firstName = "Subhash ";
+        String lastName = "Yadav1";
+        String fullName = firstName + lastName;
+        System.out.println(fullName);
+
+        // Declare Multiple Variables {First Way}
+        int x = 2;
+        int y = 4;
+        int z = 10;
+        System.out.println(x + y + z);
+
+        // Second Way
+        int a = 5, b = 6, c = 50;
+        System.out.println(a + b + c);
+
     }
 
 }
