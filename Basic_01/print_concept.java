@@ -15,7 +15,7 @@ class java {
 
 
 /*✍️✍️✍️✍️✍️✍️✍️✍️✍️✍️✍️ Notes ✍️✍️✍️✍️✍️✍️✍️✍️✍️✍️✍️✍️✍️
-❗imp println() is a method.
+❗simp println() is a method.
 
 ***************Double Quotes***************
 ● System.out.println("This sentence will work!");✅
