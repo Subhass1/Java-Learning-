@@ -111,9 +111,9 @@ class NumberandString{
  🔴 Some unique Concepts :- String Special Characters
  
     Escape character	     Result	      Description
-          \                 '	         Single quote
-          \"	              "	         Double quote
-          \\	              \	         Backslash
+          \                '	         Single quote
+          \"	             "	         Double quote
+          \\	             \	         Backslash
  */
 class texts{
   public static void main(String [] args){
