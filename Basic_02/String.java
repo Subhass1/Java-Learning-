@@ -126,8 +126,8 @@ class texts{
     String txt1 = "It\'s alright.";
     System.out.println(txt1);
 
-    //The sequence \'  inserts a single quote in a string:
-    String txt2 = "It\'s alright.";
+    //The sequence \\  inserts a single backslash in a string:
+    String txt2 = "The character \\ is called backslash.";
     System.out.println(txt2);
   }
 }
