@@ -131,3 +131,13 @@ class texts{
     System.out.println(txt2);
   }
 }
+
+/*
+ 🔴Other common escape sequences that are valid in Java are:
+       Code	      Result	
+        \n	      New Line	
+        \r	      Carriage Return	
+        \t	      Tab	
+        \b	      Backspace	
+        \f	      Form Feed
+ */
