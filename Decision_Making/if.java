@@ -6,6 +6,15 @@ package Decision_Making;
             System.out.println("20 is greater than 18");
           }
 
+          // Other examples:
+          int x = 10;
+          int y = 5;
+          if (x > y) {
+            System.out.println("X is greater than y");
+          }
+
+          // Statements is true then only executed.
+
     }
     
 }
