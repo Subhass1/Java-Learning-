@@ -1,0 +1,159 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Launch Java Program",
+            "request": "launch",
+            "mainClass": ""
+        },
+        {
+            "type": "java",
+            "name": "Launch Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "Booleans",
+            "request": "launch",
+            "mainClass": "Booleans",
+            "projectName": "Java-Learning-_5e9da100"
+        },
+        {
+            "type": "java",
+            "name": "if1",
+            "request": "launch",
+            "mainClass": "Decision_Making.if1",
+            "projectName": "Java-Learning-_5e9da100"
+        },
+        {
+            "type": "java",
+            "name": "Main",
+            "request": "launch",
+            "mainClass": "Main",
+            "projectName": "Java-Learning-_5e9da100"
+        },
+        {
+            "type": "java",
+            "name": "Name",
+            "request": "launch",
+            "mainClass": "Name",
+            "projectName": "Java-Learning-_5e9da100"
+        },
+        {
+            "type": "java",
+            "name": "NumberandString",
+            "request": "launch",
+            "mainClass": "NumberandString",
+            "projectName": "Java-Learning-_5e9da100"
+        },
+        {
+            "type": "java",
+            "name": "Strings",
+            "request": "launch",
+            "mainClass": "Strings",
+            "projectName": "Java-Learning-_5e9da100"
+        },
+        {
+            "type": "java",
+            "name": "Text",
+            "request": "launch",
+            "mainClass": "Text",
+            "projectName": "Java-Learning-_5e9da100"
+        },
+        {
+            "type": "java",
+            "name": "TypeCasting",
+            "request": "launch",
+            "mainClass": "TypeCasting",
+            "projectName": "Java-Learning-_5e9da100"
+        },
+        {
+            "type": "java",
+            "name": "conact",
+            "request": "launch",
+            "mainClass": "conact",
+            "projectName": "Java-Learning-_5e9da100"
+        },
+        {
+            "type": "java",
+            "name": "identifiers",
+            "request": "launch",
+            "mainClass": "identifiers",
+            "projectName": "Java-Learning-_5e9da100"
+        },
+        {
+            "type": "java",
+            "name": "info",
+            "request": "launch",
+            "mainClass": "info",
+            "projectName": "Java-Learning-_5e9da100"
+        },
+        {
+            "type": "java",
+            "name": "int1",
+            "request": "launch",
+            "mainClass": "int1",
+            "projectName": "Java-Learning-_5e9da100"
+        },
+        {
+            "type": "java",
+            "name": "java",
+            "request": "launch",
+            "mainClass": "java",
+            "projectName": "Java-Learning-_5e9da100"
+        },
+        {
+            "type": "java",
+            "name": "math",
+            "request": "launch",
+            "mainClass": "math",
+            "projectName": "Java-Learning-_5e9da100"
+        },
+        {
+            "type": "java",
+            "name": "texts",
+            "request": "launch",
+            "mainClass": "texts",
+            "projectName": "Java-Learning-_5e9da100"
+        },
+        {
+            "type": "java",
+            "name": "txt",
+            "request": "launch",
+            "mainClass": "txt",
+            "projectName": "Java-Learning-_5e9da100"
+        },
+        {
+            "type": "java",
+            "name": "type",
+            "request": "launch",
+            "mainClass": "type",
+            "projectName": "Java-Learning-_5e9da100"
+        },
+        {
+            "type": "java",
+            "name": "variable",
+            "request": "launch",
+            "mainClass": "variable",
+            "projectName": "Java-Learning-_5e9da100"
+        },
+        {
+            "type": "java",
+            "name": "variables",
+            "request": "launch",
+            "mainClass": "variables",
+            "projectName": "Java-Learning-_5e9da100"
+        }
+    ]
+}
