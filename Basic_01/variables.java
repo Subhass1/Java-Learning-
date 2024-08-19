@@ -1,20 +1,20 @@
-/*✍️✍️✍️✍️✍️✍️✍️✍️✍️✍️✍️ Variables_Concept ✍️✍️✍️✍️✍️✍️✍️✍️✍️✍️✍️✍️✍️
+/* ⇉⇉⇉⇉⇉⇉⇉⇉⇉⇉⇉⇉⇉⇉⇉⇉⇉⇉ Variables_Concept ⇉⇉⇉⇉⇉⇉⇉⇉⇉⇉⇉⇉⇉⇉⇉⇉⇉⇉
+  🔴 Definition ⇶ Variable is the name of memory location. In other word we can say it is user defined name which is given by user. variables can store any type of values.
 
- In Java, there are different types of variables, for example:
+ 👉 In Java, there are different types of variables, for example:
 
-🔴 String - stores text, such as "Hello". String values are surrounded by double quotes
-🔴 int - stores integers (whole numbers), without decimals, such as 123 or -123
-🔴 float - stores floating point numbers, with decimals, such as 19.99 or -19.99
-🔴 char - stores single characters, such as 'a' or 'B'. Char values are surrounded by single quotes
-🔴 boolean - stores values with two states: true or false
- */
-
-/*
-👉 *************Declaring (Creating) Variables*****************
-
- Syntax:- type variableName = value;
+        ⇶ String: stores text, ————→ "Hello".  ➡️String values are surrounded by double quotes
+        ⇶ int: stores integers (whole numbers), without decimals, ————→  123 or -123
+        ⇶ float: stores floating point numbers, with decimals, ————→  19.99 or -19.99
+        ⇶ char: stores single characters, ————→  'a' or 'B'. ➡️Char values are surrounded by single quotes
+        ⇶ boolean: stores values with two states: true or false
+     
+    ➡️ Declaring (Creating) Variables
+               ——→ Syntax:- type variableName = value;
 
  */
+
+
 
 class variables {
 
