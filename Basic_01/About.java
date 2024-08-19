@@ -71,6 +71,27 @@
      
      ⇉⇉⇉⇉⇉⇉⇉⇉⇉⇉⇉ Some Question ⇉⇉⇉⇉⇉⇉⇉⇉⇉⇉⇉ 
      🔴Why java so popular? 
+
+
+
+
+
+
+     ⇉⇉⇉⇉⇉⇉⇉⇉⇉⇉⇉ Java Program and execution Process ⇉⇉⇉⇉⇉⇉⇉⇉⇉⇉⇉
+                          
+                         java (Source Code)
+                          ↓↓    
+                        javac  
+                          ↓↓ 
+                        .class  8 bit (Byte code)
+
+
+  🔴 ⇉⇉⇉⇉⇉⇉⇉⇉⇉⇉⇉ Some Important ⇉⇉⇉⇉⇉⇉⇉⇉⇉⇉⇉
+                             Public ⇉
+                             Static ⇉
+                             Void   ⇉
+                             Main   ⇉
+
  */
 
          
