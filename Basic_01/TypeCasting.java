@@ -1,10 +1,11 @@
 /* 
-✍️✍️✍️✍️✍️✍️✍️✍️✍️✍️✍️ Type Casting_Concept ✍️✍️✍️✍️✍️✍️✍️✍️✍️✍️✍️✍️✍️
-👉Java Type Casting:- when you assign a value of one primitive data type to another type.
+⇉⇉⇉⇉⇉⇉⇉⇉⇉⇉⇉⇉⇉⇉⇉⇉⇉⇉ Type Casting_Concept ⇉⇉⇉⇉⇉⇉⇉⇉⇉⇉⇉⇉⇉⇉⇉⇉⇉⇉
+           👉 Definition ⇉ Typecasting is nothing but converting on datatype to another datatype is called typecasting.
+                        ● Java Type Casting:- when you assign a value of one primitive data type to another type.
 
-     🔴 In Java, there are two types of casting:
+     🔴 In Java, there are two types of casting⤵️
 
-        ● Widening Casting (automatically) - converting a smaller type to a larger type size
+        ● Implicit or Widening Casting (automatically) → converting a smaller type to a larger type size
         byte -> short -> char -> int -> long -> float -> double
 
         ● Narrowing Casting (manually) - converting a larger type to a smaller size type
@@ -36,7 +37,7 @@ public class TypeCasting {
   }
 }
 
-//🔴🔴Examples:-
+//🔴Examples:-
 
  class info {
   public static void main(String[] args) {
