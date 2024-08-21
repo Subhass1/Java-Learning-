@@ -1,5 +1,33 @@
 /* ⇉⇉⇉⇉⇉⇉⇉⇉⇉⇉⇉⇉⇉⇉⇉⇉⇉⇉ Variables_Concept ⇉⇉⇉⇉⇉⇉⇉⇉⇉⇉⇉⇉⇉⇉⇉⇉⇉⇉
   🔴 Definition ⇶ Variable is the name of memory location. In other word we can say it is user defined name which is given by user. variables can store any type of values.
+                 👉There are three types of variables:
+                        ● Local Variables ⇉ A variables which is declared inside the body of the method parameter called local variables.
+                                       Syntax : void fun()
+                                       {
+                                       int x; //local variables
+                                       }
+
+                        ● Instance Variables ⇉ A variables which is declared inside the class but outside of all the methods is called instacne variables.
+                                       syntax : class A
+                                       {
+                                       int a; //instance variables
+                                       public static void main(String[] args){
+                                       }
+                                       }
+                        ● Static Variables ⇉ A variables which is declared with the static keyword called static variables.
+                                        Syntax : class A
+                                        {
+                                        static int b= 20; //static 
+                                        int c = 30;//instance
+                                        public static void main (String [] args){
+                                        
+                                        int a = 20; // Local
+                                        A ref new A();
+                                        System.out.println(A.b);
+                                        System.out.println(ref.c);
+                                        }
+                                        }
+
 
  👉 In Java, there are different types of variables, for example:
 
@@ -76,4 +104,15 @@ class variable {
 
     }
 
+}
+
+
+// Add two number program in java (without user)
+ class A {
+
+    public static void main(String [] args){
+        int a = 10; 
+        int b =20;
+        System.out.println(a+b);
+    }
 }
