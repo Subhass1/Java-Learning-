@@ -11,6 +11,7 @@ Syntax: compare()                   »→ Compares between two arrays
 
 // For examples: 
 package Array;
+import java.util.Arrays;
 
 public class demo {
 
