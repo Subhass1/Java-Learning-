@@ -13,7 +13,7 @@ Syntax: compare()                   »→ Compares between two arrays
 package Array;
 import java.util.Arrays;
 
-public class demo {
+public class CompareArrays {
 
     public static void main(String [] args){
         String [] A = {"Java", "Desktop", "Pen", "Pencil"};
